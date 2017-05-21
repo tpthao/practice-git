@@ -10,7 +10,7 @@ namespace PracticeGitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello lao cung");
+            Console.WriteLine("Hello lao cung abc xyz"); 
         }
     }
 }
