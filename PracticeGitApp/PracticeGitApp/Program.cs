@@ -10,7 +10,9 @@ namespace PracticeGitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello lao cung");
+        	if (1 == 1) {
+            	Console.WriteLine("Hello lao cung");
+        	}
         }
     }
 }
